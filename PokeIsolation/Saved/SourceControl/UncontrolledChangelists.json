@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Blueprints/Items/BP_InspectItemBase.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/3K/1XEVVE09W59Y4T7IANOER5.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Framework/Player/BP_PkO_Character.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/6G/HQEJ8YH7UJRM5HO9N04U3H.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/F7/QAYTDQEDO96R2TYJMCDR6L.uasset",
 				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/PokeIsolationContent/Interaction/BPI_Interaction.uasset",
 				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/PokeIsolationContent/Items/BP_InspectItemBase.uasset",

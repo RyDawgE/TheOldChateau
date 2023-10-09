@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/PokeIsolationContent/Interaction/BPI_Interaction.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/PokeIsolationContent/Items/BP_InspectItemBase.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/F7/QAYTDQEDO96R2TYJMCDR6L.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/PokeIsolationContent/Blueprints/Interaction/BPI_Interaction.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/PokeIsolationContent/Blueprints/Items/BP_InspectItemBase.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/PokeIsolationContent/Framework/Player/BP_PkO_Character.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/PokeIsolationContent/Framework/Player/IMC_PkO_Input.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/PokeIsolationContent/Framework/Player/InputActions/IMC_PkO_Input.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/PokeIsolationContent/Framework/Player/InputActions/IA_Interact.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/6G/HQEJ8YH7UJRM5HO9N04U3H.uasset"
+			]
+		}
+	]
+}

@@ -5,36 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Blueprints/Items/BP_InspectItemBase.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/3K/1XEVVE09W59Y4T7IANOER5.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Framework/Player/BP_PkO_Character.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Blueprints/Interaction/Items/BP_InspectItemBase.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/9W/XQU6NSQYXKYRVO6D9MLOS1.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/SR/JSJH21ZKJ8JY6CIPGSA0Q0.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Blueprints/Interaction/Doors/BP_Interaction_Door.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/0L/6XCZSVAI6IBWR5B4703XZT.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Framework/Player/IMC_PkO_Input.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/6G/HQEJ8YH7UJRM5HO9N04U3H.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/F7/QAYTDQEDO96R2TYJMCDR6L.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/PokeIsolationContent/Interaction/BPI_Interaction.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/PokeIsolationContent/Items/BP_InspectItemBase.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/F7/QAYTDQEDO96R2TYJMCDR6L.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/PokeIsolationContent/Blueprints/Interaction/BPI_Interaction.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/PokeIsolationContent/Blueprints/Items/BP_InspectItemBase.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/PokeIsolationContent/Framework/Player/BP_PkO_Character.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/PokeIsolationContent/Framework/Player/IMC_PkO_Input.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/PokeIsolationContent/Framework/Player/InputActions/IMC_PkO_Input.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/PokeIsolationContent/Framework/Player/InputActions/IA_Interact.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/PokeIsolation/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/6G/HQEJ8YH7UJRM5HO9N04U3H.uasset"
+				"D:/Unreal Engine/TheOldChateau/TheOldChateau/PokeIsolation/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
 	]

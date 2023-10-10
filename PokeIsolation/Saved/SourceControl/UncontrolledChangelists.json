@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/9W/XQU6NSQYXKYRVO6D9MLOS1.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/SR/JSJH21ZKJ8JY6CIPGSA0Q0.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Framework/Player/BP_PkO_Character.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/W2/B6H8UBOMQHMJPY3SES74A4.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Framework/Player/InputActions/IA_ZoomItem.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Framework/Player/InputActions/IMC_PkO_Input.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Framework/Player/InputActions/IA_Interact.uasset",
 				"D:/Unreal Engine/TheOldChateau/TheOldChateau/PokeIsolation/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}

@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/9W/XQU6NSQYXKYRVO6D9MLOS1.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/SR/JSJH21ZKJ8JY6CIPGSA0Q0.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Framework/Player/BP_PkO_Character.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Framework/Player/InputActions/IA_ZoomItem.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Framework/Player/InputActions/IMC_PkO_Input.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Framework/Player/InputActions/IA_Interact.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/assets/fonts/Halloween_Horrors.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/assets/fonts/Halloween_Horrors_Font.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Widgets/W_MainWidget.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Framework/HUD/BP_PKO_HUD.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Framework/Game/BP_PKO_GameInstance.uasset",
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"G:/Unreal Projects/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Framework/Player/BP_PkO_Character.uasset",
 				"G:/Unreal Projects/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Framework/Player/InputActions/IMC_PkO_Input.uasset",
 				"G:/Unreal Projects/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Framework/Player/InputActions/IA_ToggleFlashlight.uasset",
@@ -203,13 +215,7 @@
 				"D:/Unreal Engine/TheOldChateau/TheOldChateau/PokeIsolation/Content/assets/models/characters/haunter/materials/Haunter_Eyes.uasset",
 				"D:/Unreal Engine/TheOldChateau/TheOldChateau/PokeIsolation/Content/assets/models/characters/haunter/materials/Eyes.uasset",
 				"D:/Unreal Engine/TheOldChateau/TheOldChateau/PokeIsolation/Content/assets/models/characters/haunter/materials/Haunter_Body_Scary.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/9W/XQU6NSQYXKYRVO6D9MLOS1.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/SR/JSJH21ZKJ8JY6CIPGSA0Q0.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Framework/Player/BP_PkO_Character.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/W2/B6H8UBOMQHMJPY3SES74A4.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Framework/Player/InputActions/IA_ZoomItem.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Framework/Player/InputActions/IMC_PkO_Input.uasset",
-				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/PokeIsolationContent/Framework/Player/InputActions/IA_Interact.uasset"
+				"C:/Users/RyDaw/Documents/GitHub/TheOldChateau/PokeIsolation/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/W2/B6H8UBOMQHMJPY3SES74A4.uasset"
 			]
 		}
 	]
